@@ -13,7 +13,7 @@ CREATE TABLE Authors (author_id  INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
 author_name VARCHAR(215)
 ); 
 
-Create table Customers (customer_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, 
+Create TABLE Customers (customer_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, 
 customer_name VARCHAR(215),
 email VARCHAR(215),
 address TEXT
